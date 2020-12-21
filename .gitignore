@@ -1,0 +1,5 @@
+*.o
+enigma
+main
+test*
+*_old*
