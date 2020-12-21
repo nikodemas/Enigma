@@ -1,5 +1,5 @@
 # Enigma
-implementation of an Enigma coding machine
+*implementation of an Enigma coding machine*
 
 Enigma is the common name for the coding machine used by German forces in the Second World War. Two machines set up in the same way allowed the sending of a message securely between their users.
 
